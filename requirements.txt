@@ -1,0 +1,9 @@
+torch 
+torchvision
+ultralytics
+opencv-python
+numpy
+gpiozero 
+picamera2
+Flask
+pandas
